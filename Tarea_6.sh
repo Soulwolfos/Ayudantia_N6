@@ -1,5 +1,7 @@
 #! /bin/bash
 
+#| Rodrigo Lobos | 1/06/2019 | 
+
 #Script para instalar Docker y Docker-compose
 
 echo "---- Iniciando instalacion de Docker ----"
